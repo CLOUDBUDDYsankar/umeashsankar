@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS , LINUX , DevOps**
 
-- 📫 How to reach me **sankarumeash021093@gmail.com**
+- 📫 How to reach me **mr.cloudbuddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
