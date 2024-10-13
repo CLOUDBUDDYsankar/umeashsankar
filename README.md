@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm CLOUDBUDDY SANKAR ## Cloud & DevOps Engineer | Automation Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm CLOUDBUDDY SANKAR ## Cloud & DevOps Engineer | Automation Enthusiast</h1>
 <h3 align="center">👨‍💻 Passionate about automation, cloud infrastructure, and DevOps practices with experience in AWS, Azure, and RedHat. 
 
 🚀 Currently working on improving infrastructure automation and optimizing workflows using the latest DevOps tools and technologies.</h3>
