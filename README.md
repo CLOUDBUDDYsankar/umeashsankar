@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mr.Cloud Buddy</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h1 align="center">Hi 👋, I'm I'm CLOUDBUDDY SANKAR ## Cloud & DevOps Engineer | Automation Enthusiast</h1>
+<h3 align="center">👨‍💻 Passionate about automation, cloud infrastructure, and DevOps practices with experience in AWS, Azure, and RedHat. 
+
+🚀 Currently working on improving infrastructure automation and optimizing workflows using the latest DevOps tools and technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
